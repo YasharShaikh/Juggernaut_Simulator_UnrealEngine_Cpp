@@ -1,7 +1,4 @@
 # ** Juggernaut Simulator (Unreal Engine C++) 💥 **
-==========================
-
-
 Futuristic combat vehicle simulator inspired by 86 anime's iconic mechs, built with Unreal Engine and C++.
 
 ## Development Status 👨🏽‍🔧: 
