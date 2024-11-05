@@ -2,7 +2,7 @@
 Futuristic combat vehicle simulator inspired by the T-72M1 tank and 86 anime's iconic mechs, built with Unreal Engine and C++.
 
 ## Development Status 👨🏽‍🔧: 
- ### 🔧Rigging [Quadroped Mech](https://sketchfab.com/3d-models/mech-walker-drone-77f4d8430a1d4d0c807fe631011fc4d5)
+ ### 🔧 Rigging [Quadroped Mech](https://sketchfab.com/3d-models/mech-walker-drone-77f4d8430a1d4d0c807fe631011fc4d5)
 
 **Preview 👀**
 ----------
