@@ -1,4 +1,4 @@
-# Juggernaut Simulator (Unreal Engine C++) [**WIP**]💥
+# Juggernaut Simulator (Unreal Engine C++)💥
 Futuristic combat vehicle simulator inspired by the T-72M1 tank and 86 anime's iconic mechs, built with Unreal Engine and C++.
 
 ## Development Status 👨🏽‍🔧: 
@@ -12,7 +12,7 @@ Futuristic combat vehicle simulator inspired by the T-72M1 tank and 86 anime's i
 As outlined in the [Design Document](https://docs.google.com/document/d/1Ig1sRVejU6OH4RAG5PHnF87CbmguuC3bCiWjWVy3m3Q/edit?usp=sharing) , the simulator will include:
 * Juggernaut model and textures
 * Movement dynamics and physics
-* Combat mechanics and AI
+* Combat mechanics
 * Environment and level design
 * User interface and controls
 * Procedural animation system
